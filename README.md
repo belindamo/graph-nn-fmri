@@ -1,4 +1,4 @@
-# Research project: graph nn fmri 
+# Graph NN for FMRI analysis
 
 This research project was created with [Co-Sci](https://theresearchcompany.ai)
 
